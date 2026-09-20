@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "084883bf0e1eef0b5e5b6bc9",
+  "owner": "jjjpkymfbak",
+  "repo": "page-45a69d1de053eda3618b744e",
+  "title": "Windup",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "45a69d1de053eda3618b744e",
+      "a": "Windup",
+      "b": "稳定全球clash加速器",
+      "entity": "Windup",
+      "brand": "Windup",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "62ff7d4f9f8b9de0313c1dab46a322fbcaa3a0b6cae0cb88e8395e99af9c9a1f",
+      "content": {
+        "primary_entity": "Windup",
+        "keyword1": "Windup",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要稳定跨境连接的用户，提供多档订阅套餐与对应设备额度。基础版每月 100GB 流量，适合手机与平板轻度使用；旗舰版每月 300GB 流量并支持 5 台设备，IPLC 专线侧重游戏与实时应用优化；团队版每月 1000GB 流量，支持 20 台设备与定制路由。按年付方案在月付基础上进一步降低月均支出，基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。选择套餐后按设备类型挑选适配客户端，导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "多档套餐覆盖日常与团队加速",
+          "AI_HERO_INTRO": "Windup 提供基础版、旗舰版与团队版三档订阅，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台。旗舰版与团队版分别加入 IPLC 专线优化和 VIP 专属节点，用户可按实际设备数量与用量挑选合适档位。",
+          "AI_VISUAL_TITLE": "Windup 加速器套餐一览",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数划分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付方案降低月均支出",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURES_INTRO": "结合设备数量、月流量需求与预算挑选档位，再按客户端文档完成订阅配置。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用终端数量选择。",
+          "AI_FEATURE_TITLE_2": "按流量估需求",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合轻量浏览，300GB 适合多设备日常，1000GB 适合团队或重度使用。",
+          "AI_FEATURE_TITLE_3": "按周期看成本",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统对应不同客户端，可参考各平台文档手动导入订阅链接。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别为 ¥150、¥350、¥850。旗舰版与团队版提供更高带宽节点与优先支持。",
+          "AI_GUIDE_TITLE": "三步完成订阅使用",
+          "AI_GUIDE_INTRO": "先确认设备与用量，再选取套餐并依照客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用系统与客户端版本，核对套餐支持的设备并发数量。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端的文档指引，导入订阅链接并完成节点选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与套餐选择。",
+          "AI_CLOSING_TITLE": "选对档位，顺畅连接",
+          "AI_CLOSING_TEXT": "根据设备数与流量需求选定套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版为 5 台，团队版最多 20 台。多设备用户建议选择更高档位，避免超出限制影响使用。",
+          "AI_FAQ_ANSWER_2": "可以。旗舰版提供 IPLC 专线游戏加速优化，适合对延迟敏感的游戏与实时应用。基础版使用普通线路节点池。",
+          "AI_FAQ_ANSWER_3": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。轻度浏览选基础版，日常视频与游戏选旗舰版，多人共享选团队版。",
+          "AI_FAQ_ANSWER_4": "可以。三档套餐均提供按年付价格，年付比月付平均每月更划算，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_5": "在客户端中导入订阅地址后即可使用。不同客户端操作入口略有差异，可参照对应客户端文档完成配置。",
+          "AI_FAQ_QUESTION_1": "Windup 不同套餐支持几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "游戏加速需要选择哪个套餐？",
+          "AI_FAQ_QUESTION_3": "每月流量不够用可以升级套餐吗？",
+          "AI_FAQ_QUESTION_4": "支持按年付费吗？",
+          "AI_FAQ_QUESTION_5": "订阅导入后怎么在客户端使用？",
+          "AI_FAQ_TITLE": "Windup 常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lhpklrd.cn",
+    "host": "lhpklrd.cn"
+  },
+  "file_hashes": {
+    "index.html": "922dd4952a427ac144ab9d58e297f5083fdb9b2c56caf7f7531d07beccfc6b5e",
+    "sitemap.xml": "9d6e130c9c03febe8ac617161cbaa1a5a1ae25fcda8b724a2726b3113086f216",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "63fd2a4d013f72ade3eb495aabfc6d7bbb6c3b873c858fc9169b7b4a636c9958",
+    "robots.txt": "6bb53592368cd039ebb5fe6428a08fec04571ee1874ee7a1e3a7988e111d2356",
+    "26c7c4143f824561df9bdb3c0ca214d8.txt": "f0e0fa0e0a84d867308efa7860226d172ca24b67767fb6f364ac90238c54d473"
+  },
+  "revision": "28df7c966ca467cbeddaaba0716e4eaee5c7c3092d1984b2d4ba00bb60096d03"
+}

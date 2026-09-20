@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lhpklrd.cn/sitemap.xml
